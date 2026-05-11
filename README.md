@@ -1,6 +1,6 @@
 # Resume Matching Engine
 
-This project was built for the Redrob AI Campus Hackathon.
+This project was built for the McKinley and Rice Drive Redrob AI Campus Hackathon.
 
 ## Features
 - Skill normalization using alias mapping
